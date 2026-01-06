@@ -60,9 +60,12 @@
 }
 /*Логотип*/
 .cover {
+  position: relative;
+  overflow: hidden;
   padding: 0;
   min-height: 757px;
   display: flex;
+  position: relative;
 }
 .overlay {
   position: relative;
